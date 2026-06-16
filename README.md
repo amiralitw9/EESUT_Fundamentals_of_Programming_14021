@@ -1,25 +1,31 @@
 # Sharif University of Technology - Fundamentals of Programming 🚀
 
-Welcome to my repository for the **Fundamentals of Programming** course, completed at the **Department of Electrical Engineering, Sharif University of Technology**. 
+Welcome to my repository for the **Fundamentals of Programming** course, completed during **Term 14021 (Fall 2023)** at the **Department of Electrical Engineering, Sharif University of Technology**.
 
-This repository serves as a comprehensive archive of my academic journey in programming, featuring foundational algorithms, weekly assignments, competitive quizzes, and major course projects implemented in **C/C++**.
+This repository serves as a comprehensive archive of my academic journey in programming, featuring foundational algorithms, weekly assignments, competitive quizzes, and structural problem-solving implemented in **C/C++**.
 
 ---
 
 ## 📂 Repository Structure
 
-The project files are systematically organized into structural directories based on the curriculum progression:
+The project files are systematically organized into structural directories. Each folder contains its respective source code files directly within it:
 
 ```text
-├── 📝 Assignments/           # Weekly Homeworks (HWs)
-│   ├── HW01/                 # Basic syntax, I/O operations, and data types
-│   ├── HW02/                 # Conditionals, loops, and control flow
-│   └── HW03/                 # Arrays, functions, and recursion
+├── 📝 HW0/ to HW6/          # Weekly Homework Assignments
+│   ├── HW0/                 # Source files for HW0
+│   ├── HW1/                 # Source files for HW1
+│   ├── HW2/                 # Source files for HW2
+│   ├── HW3/                 # Source files for HW3
+│   ├── HW4/                 # Source files for HW4
+│   ├── HW5/                 # Source files for HW5
+│   └── HW6/                 # Source files for HW6
 │
-├── ⏱️ Quizzes/               # Timed competitive programming quizzes
-│   ├── Quiz01/               # Bitwise operations and modular arithmetic
-│   └── Quiz02/               # Matrix manipulation and multi-dimensional arrays
-│
-└── 🎮 Major-Projects/        # Comprehensive end-of-semester applications
-    ├── Advanced-Sudoku/      # Matrix-based console Sudoku game with back-tracking
-    └── BouncingBall-Game/    # Physics-based arcade game utilizing the SDL2 library
+└── ⏱️ quiz1/ to quiz8/      # Timed Competitive Programming Quizzes
+    ├── quiz1/               # Source files for Quiz 1
+    ├── quiz2/               # Source files for Quiz 2
+    ├── quiz3/               # Source files for Quiz 3
+    ├── quiz4/               # Source files for Quiz 4
+    ├── quiz5/               # Source files for Quiz 5
+    ├── quiz6/               # Source files for Quiz 6
+    ├── quiz7/               # Source files for Quiz 7
+    └── quiz8/               # Source files for Quiz 8

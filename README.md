@@ -21,11 +21,14 @@ The project files are systematically organized into structural directories. Each
 │   └── HW6/                 # Source files for HW6
 │
 └── ⏱️ quiz1/ to quiz8/      # Timed Competitive Programming Quizzes
-    ├── quiz1/               # Source files for Quiz 1
-    ├── quiz2/               # Source files for Quiz 2
-    ├── quiz3/               # Source files for Quiz 3
-    ├── quiz4/               # Source files for Quiz 4
-    ├── quiz5/               # Source files for Quiz 5
-    ├── quiz6/               # Source files for Quiz 6
-    ├── quiz7/               # Source files for Quiz 7
-    └── quiz8/               # Source files for Quiz 8
+│   ├── quiz1/               # Source files for Quiz 1
+│   ├── quiz2/               # Source files for Quiz 2
+│   ├── quiz3/               # Source files for Quiz 3
+│   ├── quiz4/               # Source files for Quiz 4
+│   ├── quiz5/               # Source files for Quiz 5
+│   ├── quiz6/               # Source files for Quiz 6
+│   ├── quiz7/               # Source files for Quiz 7
+│   └── quiz8/               # Source files for Quiz 8
+│
+└── 🎮 Major-Projects/       
+    └── 📌 BouncingBall-Game -> https://github.com/amiralitw9/BouncingBallGame

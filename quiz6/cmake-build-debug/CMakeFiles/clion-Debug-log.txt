@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\amira\CLionProjects\کوییز 6 Select CMakeLists.txt
